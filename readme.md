@@ -5,7 +5,7 @@ The idea of this initiative is to correctly classify images in four distinct cat
 - do we see a bee or a wasp
 - does the bee carry pollen-packets
 - is the bee infected by varoa-mite
-- does the bee cool the hive by flappingn it's wings
+- does the bee cool the hive by flapping it's wings
 
 We are testing different architectures and optimizations focused on:
 ===============
@@ -24,6 +24,6 @@ In more detail our work addresses the following key points:
 
 Technical information
 ===============
-Project is developed in TensorFlow Keras
-Database we are using is tensorflow's bee_dataset
-Our working enviroment is GoogleColab
+Project is developed in TensorFlow Keras.
+Database we are using is tensorflow's bee_dataset.
+Our working enviroment is GoogleColab.
