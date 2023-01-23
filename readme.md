@@ -1,29 +1,34 @@
-Introduction
-===============
-Bee classification is a team project focused on learning CNN's.
-The idea of this initiative is to correctly classify images in four distinct categories:
-- do we see a bee or a wasp
-- does the bee carry pollen-packets
-- is the bee infected by varoa-mite
-- does the bee cool the hive by flapping it's wings
+# Introduction to CNN's based on Bee classification
 
-We are testing different architectures and optimizations focused on:
-===============
-1. increasing the precision of predictions
-2. improving time needed for learning
-3. expanding explainability of our model
+Goal of the project is to present the problem of multidimensional image classification. 
+Step by step we introduce the reader to the topics of convolutional neural networks.
 
-In more detail our work addresses the following key points:
-===============
-- Developing better model architecture
-- Refining data
-- Applying pooling or/and image compression
-- Reducing number of color channels
-- Visualizing weights
-- Creating comprehensive documentation
+The interactive form of the notebook enables us to produce better educational resource.
+We've carefully chosen the example, so that it can be generalised into set of similar problems.
+The document that you'll find here therefore can be useful when starting a new CNN project.
 
-Technical information
-===============
-Project is developed in TensorFlow Keras.
-Database we are using is tensorflow's bee_dataset.
-Our working enviroment is GoogleColab.
+## General key points:
+- **Theoretical introduction**
+	- Basic concepts
+	- What are CNN's?
+	- Structure of neural networks
+- **Example based on bee classification**
+	- Dataset
+	- Data refinement
+	- Metrics for multidimensional parameters
+	- The model
+	- Problem of overfitting
+	- Experiment with single color channel
+	- Final results
+
+## Contributors
+- Anna Suzdalcew
+- Krzysztof Kilian
+- Michał Balicki
+
+Contact: meridor6919@wp.pl
+
+
+
+
+ 
